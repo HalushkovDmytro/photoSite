@@ -1,3 +1,3 @@
 # photoSite.github.io
 Photo portfolio
-https://halushkovdmytro.github.io/photoSite.github.io/
+https://halushkovdmytro.github.io/photograph-portfolio/
